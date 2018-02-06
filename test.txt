@@ -4,3 +4,4 @@ test is ongoing
 something new again
 another addition
 third addition
+new3
